@@ -4,6 +4,9 @@ from PyQt5.QtCore import Qt, QPoint
 from PyQt5.QtWidgets import QApplication, QWidget, QLabel, QVBoxLayout
 from PyQt5.QtGui import QPixmap, QIcon, QFont
 
+# M ILHAM ABDUL SHALEH
+# F1D022061
+
 
 class CatchAGhost(QWidget):
     def __init__(self):
