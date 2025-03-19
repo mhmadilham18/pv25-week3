@@ -74,7 +74,6 @@ class CatchAGhost(QWidget):
         self.coord_label.setText(f"[{event.x()}, {event.y()}]")
         super().mouseMoveEvent(event)
 
-
 if __name__ == "__main__":
     app = QApplication(sys.argv)
     window = CatchAGhost()
