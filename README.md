@@ -1,10 +1,9 @@
 ## Data Diri
 
-```plaintext
 | Nama Lengkap         | NIM        |
 |----------------------|------------|
 | M ILHAM ABDUL SHALEH | F1D022061  |
-```
+
 
 
 # Catch a Ghost - PyQt5 Game
